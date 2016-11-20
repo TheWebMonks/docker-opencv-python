@@ -1,0 +1,7 @@
+app:
+    build: .
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./transfer:/out
+      - ./src:/src

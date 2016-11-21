@@ -8,7 +8,7 @@ Libraries inside:
 * [Python 2.7](https://www.python.org/)
 * [OpenCV 2.4.13](http://opencv.org/)
 * [CMake 2.8.12.2](https://cmake.org/)
-* [Numpy](http://www.numpy.org/)
+* [Numpy 1.8.2](http://www.numpy.org/)
 
 ## Usage
 
@@ -16,6 +16,7 @@ Download:
 ```
 $ docker pull lukin0110/docker-opencv-python
 ```
+**Note**: this image is 5GB!
 
 Run python shell:
 ```

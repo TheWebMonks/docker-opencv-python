@@ -1,13 +1,14 @@
 # Docker OpenCV Python image
 
 This is a Docker development image for [OpenCV](http://opencv.org/) 
-projects with Python based on Debian Wheezy x86_64. 
+projects with Python based on Debian Jessie x86_64. 
 
 Libraries inside:
 
-* [Python 3.5.2](https://www.python.org/)
+* [Python 2.7](https://www.python.org/)
 * [OpenCV 2.4.13](http://opencv.org/)
 * [CMake 2.8.12.2](https://cmake.org/)
+* [Numpy](http://www.numpy.org/)
 
 ## Usage
 
